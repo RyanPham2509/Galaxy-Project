@@ -14,8 +14,9 @@ A simple multi-platform made with Python and the Kivy framework.
 
 ### Executing program
 
-* Press the "Run" button
-* Control the spaceship to follow the path
+* Download the zip file then unzip
+* Open the file in VScode
+* Click "Run" and play the game
 
 ## Authors
 - Jonathan Roux
