@@ -7,51 +7,24 @@ A simple multi-platform made with Python and the Kivy framework.
 - 1 player controls a spaceship in a perspective mode
 - The spaceship can be moved by using the keyboard (PC) or touchscreen (mobile)
 
-## Getting Started
-
 ### Dependencies
 
 * Python
 * Kivy
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Press the "Run" button
+* Control the spaceship to follow the path
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+- Jonathan Roux
+- Contact: jonathan@codewithjonathan.net
+- Guide: https://www.youtube.com/watch?v=l8Imtec4ReQ
 ## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+    * Based game made by Jonathan Roux
 
 ## Roadmap
 - A detailed main menu with settings
