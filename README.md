@@ -1,6 +1,6 @@
 # GALAXY
 
-A simple multi-platform made with Python and the Kivy framework.
+A simple multi-platform game made with Python and the Kivy framework.
 
 ## Description
 
